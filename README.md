@@ -30,36 +30,6 @@ ShopEase is a full-stack eCommerce platform built with **React.js, Express.js, M
 - **Payment Integration:** Razorpay, Stripe  
 - **Hosting:** Vercel  
 
-## 🚀 Getting Started  
-
-### **Clone the Repository**  
-```bash
-git clone https://github.com/your-username/shop-ease.git
-cd shop-ease
-```
-
-### **Backend Setup**  
-1. Install dependencies:  
-   ```bash
-   cd backend
-   npm install
-   ```
-2. Set up `.env` file with MongoDB, payment keys, and JWT secret.  
-3. Run the server:  
-   ```bash
-   npm start
-   ```
-
-### **Frontend Setup**  
-1. Install dependencies:  
-   ```bash
-   cd frontend
-   npm install
-   ```
-2. Start the development server:  
-   ```bash
-   npm start
-   ```
 
 ## 📬 Contact  
 If you have any questions, feel free to reach out!  
